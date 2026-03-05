@@ -10,7 +10,7 @@ Solving LeetCode problems in Java, one problem at a time.
 src/
 └── problems/
     └── 0412-fizz-buzz/
-        ├── FizzBuzz.java   # Solution
+        ├── FizzBuzz.java   # problems.fizzbuzz.Solution
         ├── NOTES.md        # Approach, complexity, notes
         └── ...
 ```
@@ -21,7 +21,7 @@ src/
 
 | # | Title | Difficulty | Time | Space |
 |---|-------|------------|------|-------|
-| 412 | [FizzBuzz](src/problems/0412_fizz_buzz/FizzBuzz.Java) | Easy | O(n) | O(n) |
+| 412 | [FizzBuzz](src/problems/fizzbuzz) | Easy | O(n) | O(n) |
 
 ---
 
